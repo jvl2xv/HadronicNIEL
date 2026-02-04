@@ -1,1 +1,5 @@
 GEANT4 code to get raw Monte-Carlo data for the non-ionizing energy loss (NIEL) per incident proton.
+
+src - All required GEANT4 files to define the geometry, record relevant data, and establish required physics
+include - Required header files
+RunLoop.sh - Loops over all materials, setting the geometry appropriately
